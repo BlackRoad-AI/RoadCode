@@ -6,7 +6,7 @@ Canonical RoadCode workspace and automation hub for BlackRoad-AI.
 
 - RoadCode landing page and deploy surface
 - org-specific operator workflows
-- automation entrypoints for GitHub, Gitea, Slack, and Cloudflare
+- automation entrypoints for GitHub, RoadCode, Slack, and Cloudflare
 
 ## Deploy
 
