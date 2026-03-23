@@ -1,3 +1,11 @@
+# RoadCode
+
+> Canonical RoadCode workspace and automation hub for BlackRoad-AI.
+
+Part of the [BlackRoad OS](https://blackroad.io) ecosystem — [BlackRoad-AI](https://github.com/BlackRoad-AI)
+
+---
+
 # BlackRoad-AI — RoadCode
 
 > AI Models & Inference division of [BlackRoad OS, Inc.](https://github.com/BlackRoad-OS-Inc)
